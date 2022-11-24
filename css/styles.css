@@ -128,12 +128,31 @@ div.gallery {
     float:left;
     margin-left: 18%;
     margin-top: 20px;
+
     width: 100px;
     height:80px;
 }
 
 div.gallery img {
     width: 100%;
-    height: 100%;
-   
+    height: 100%;   
+}
+
+div.italy {
+    background-color: white;
+    border: 10px solid black; 
+    float: left;
+    margin-left: 8%;
+    margin-top: 20px;
+    width: 20%;
+    height: auto;
+}
+
+div.italy img {
+    width: 100%;
+    height: 100%;   
+}
+
+.row {   
+    margin-bottom: 250px;
 }
