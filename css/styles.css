@@ -72,6 +72,11 @@ footer {
     color: white;
 }
 
+.nav-active {
+    color: white;
+    background-color: black;
+}
+
 /*Pictures*/
 .img-full {
     width: 95%;    
